@@ -11,6 +11,12 @@ A responsive, accessible profile card built using semantic HTML, CSS, and vanill
 - All required `data-testid` attributes
 
 ## How to Run Locally
-1. Clone the repository  
-   ```bash
-   git clone https://github.com/<your-username>/<your-repo-name>.git
+git clone https://github.com/Major-Kosdan/hng13-profile-card.git
+
+Open index.html in your browser.
+
+Navigate between Home, About Me, and Contact Me pages using the buttons on the profile card.
+
+Live Demo
+
+https://major-kosdan.github.io/hng13-profile-card/
